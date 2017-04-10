@@ -1,0 +1,12 @@
+#cabezaVibora {
+  width: 20px;
+  height: 20px;
+  background-color: #5A0000;
+}
+
+#jaula {
+  width: 500px;
+  height: 500px;
+  border: solid 1px black;
+  margin: 0px auto 0px auto;
+}
